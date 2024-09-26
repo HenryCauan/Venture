@@ -1,0 +1,452 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.poppins-medium {
+	font-family: "Poppins", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+  }
+  .poppins-semibold {
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+  }
+  .playfair-display> {
+	font-family: "Playfair Display", serif;
+	font-optical-sizing: auto;
+	font-weight: weight;
+	font-style: normal;
+  }
+  .section {
+    /* ... (seus estilos existentes) ... */
+    /* Adicionando transição para a propriedade transform */
+    transition: transform 0.8s ease-in-out;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	background-repeat: no-repeat;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    /* This makes sure the container takes up full viewport height */
+    height: 100vh;
+    /* overflow-y: scroll;  Enable scrolling if the content exceeds viewport height */
+}
+
+.section {
+    /* Each section will be 100% viewport height */
+    height: 100vh; 
+    /* Use background-attachment: fixed if you want the background fixed while scrolling */
+    background-size: cover;
+	z-index: 1;
+	
+}
+
+.section1 {
+    background-image: url('./img/Background01.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index: 1;
+	background-attachment: fixed;
+}
+
+.section2 {
+    background-image: url('./img/Venture02.png');
+	background-size: cover;
+	z-index: 1;
+
+}
+
+.section3 {
+	margin-left: -6%;
+    background-image: url('./img/Venture03.png');
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 1;
+}
+
+
+.section4 {
+    background-image: url('./img/Venture4.png');
+	background-size: cover;
+	z-index: 1;
+	background-attachment: fixed;
+
+}
+
+.section5 {
+    background-image: url('./img/Venture5.png');
+	background-size: cover;
+	z-index: 1;
+
+}
+
+.section6 {
+    background-image: url('./img/Venture6.png');
+	background-size: cover;
+	z-index: 1;
+
+}
+
+.section7 {
+    background-image: url('./img/Footer.png');
+	background-size: cover;
+	height: 318px;
+	width: 1940px;
+}
+
+.nav_group {
+    cursor: pointer;
+    width:365px;
+	height:21px;
+	position:absolute;
+	left:798px;
+	top:36px;
+    text-decoration: none;
+	align-items: center;
+	display: flex;
+	padding: 8px 16px 8px 16px;
+}
+
+.Home {
+    color:rgba(0, 0, 0, 1);
+	width:42px;
+	height:21px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all .6s ease;
+}
+
+.Home:hover {
+    transform: scale(1.02);
+  }
+
+
+
+.Partners {
+    color:rgba(0, 0, 0, 1);
+	width:59px;
+	height:21px;
+	position:absolute;
+	left:70px;
+	top:0px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all .6s ease;
+}
+.Partners:hover {
+    transform: scale(1.02);
+  }
+
+
+
+.FAQ {
+    color:rgba(0, 0, 0, 1);
+	width:28px;
+	height:21px;
+	position:absolute;
+	left:157px;
+	top:0px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all .6s ease;
+}
+
+.FAQ:hover {
+    transform: scale(1.02);
+  }
+
+
+.Coupons {
+    color:rgba(0, 0, 0, 1);
+	width:152px;
+	height:21px;
+	position:absolute;
+	left:213px;
+	top:0px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all .6s ease;
+}
+
+.Coupons:hover {
+    transform: scale(1.02);
+  }
+
+.logo { 
+	width:1140px;
+	height:161px;
+	position:absolute;
+	left:400px;
+	top:776px;
+}
+
+.agenda { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1140px;
+	height:161px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:23px;
+	border-top-right-radius:23px;
+	border-bottom-left-radius:23px;
+	border-bottom-right-radius:23px;
+}
+.agenda-titulo { 
+	color:rgba(0, 0, 0, 1);
+	width:168px;
+	height:23px;
+	position:absolute;
+	left:54px;
+	top:58px;
+	font-family: Arial;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+	font-weight: 650;
+}
+.name-logo { 
+	color:rgba(0, 0, 0, 1);
+	width:85px;
+	height:28px;
+	position:absolute;
+	left:368px;
+	top:38px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.logologo { 
+	width:147px;
+	height:138.35293579101562px;
+	position:absolute;
+	left:274px;
+	top:-8px;
+	background-image:url(./img/rectangle_6.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	cursor: pointer;
+    transition: all .6s ease;
+}
+.logologo:hover {
+    transform: scale(1.02);
+  }
+.titulo{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	bottom: 740px;
+	font-family: "Poppins", sans-serif;
+	font-style: normal;
+	font-size: 23px;	
+}
+.texto-azul{
+	font-family: "Playfair Display", serif;
+	font-style: italic;
+	color: rgba(12, 109, 255, 100%);
+}
+.texto-preto{
+	font-family: "Poppins", sans-serif;
+	font-weight: 650;
+	font-style: italic;
+}
+.choose { 
+	width:391px;
+	height:42px;
+	position:absolute;
+	left:454px;
+	top:870px;
+}
+.layout-choose { 
+	background-color:rgba(212.76563107967377, 212.76563107967377, 212.76563107967377, 0.699999988079071);
+	width:391px;
+	height:42px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}
+.nome-choose { 
+	color:rgba(0, 0, 0, 1);
+	opacity:0.4000000059604645;
+	width:98px;
+	height:17px;
+	position:absolute;
+	left:15px;
+	top:12px;
+	font-family:Arial;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+.icon-choose { 
+	width:25px;
+	height:25px;
+	position:absolute;
+	left:349px;
+	top:8px;
+	background-image:url(./img/calendar-regular-24.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.passagens { 
+	width:391px;
+	height:42px;
+	position:absolute;
+	left:888px;
+	top:870px;
+}
+.layout-passagens { 
+	background-color:rgba(212.76563107967377, 212.76563107967377, 212.76563107967377, 0.699999988079071);
+	width:391px;
+	height:42px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}
+.nome-passagens { 
+	color:rgba(0, 0, 0, 1);
+	opacity:0.4000000059604645;
+	width:126px;
+	height:17px;
+	position:absolute;
+	left:15px;
+	top:12px;
+	font-family:Arial;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+.icon-passagens { 
+	width:25px;
+	height:25px;
+	position:absolute;
+	left:349px;
+	top:8px;
+	background-image:url(./img/chevron-down-solid-24.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.check { 
+	width:195px;
+	height:42px;
+	position:absolute;
+	left:1310px;
+	top:870px;
+}
+.layout-check { 
+	background-color:rgba(0, 51.00000075995922, 255, 0.7900000214576721);
+	width:195px;
+	height:42px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}
+.nome-check { 
+	color:rgba(255, 255, 255, 1);
+	width:133px;
+	height:23px;
+	position:absolute;
+	left:44px;
+	top:10px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}
+.icon-check{ 
+	width:25px;
+	height:25px;
+	position:absolute;
+	left: 15px;
+	top:8px;
+	background-image:url(./img/search.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.explore { 
+	width:0px;
+	height:45px;
+	position:absolute;
+	left:1586px;
+	top:28px;
+}
+.layout-explore { 
+	background-color:rgba(255, 255, 255, 1);
+	width:237px;
+	height:45px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:29px;
+	border-top-right-radius:29px;
+	border-bottom-left-radius:29px;
+	border-bottom-right-radius:29px;
+}
+.layout-explore { 
+	border:1px solid rgba(184.87500607967377, 184.87500607967377, 184.87500607967377, 1);
+}
+.nome-explore { 
+	color:rgba(0, 0, 0, 1);
+	width:143px;
+	height:21px;
+	position:absolute;
+	left:37px;
+	top:12px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}
+.icon-explore { 
+	width:25px;
+	height:25px;
+	position:absolute;
+	left:185px;
+	top:10px;
+	background-image:url(./img/forward_button.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
