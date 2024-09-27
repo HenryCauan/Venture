@@ -1,3 +1,10 @@
-<h1>Responsive Venture Website</h1>
+<h1>Responsive Travel Website</h1>
+<ul>
+  <li>Responsive Travel Website Design Using HTML CSS And JavaScript</li>
+  <li>Contains animations when scrolling.</li>
+  <li>Smooth scrolling in each section.</li>
+  <li>Developed first in Figma, then for Code.</li>
+</ul>
 
-![Gitub3](https://github.com/user-attachments/assets/3d0c862a-1d78-4dac-8074-07bd041fc2f1)
+![ghit](https://github.com/user-attachments/assets/9775c320-a5d3-44d1-b890-b815a5bb4e2a)
+
