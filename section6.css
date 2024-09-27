@@ -1,0 +1,386 @@
+.section6{
+    position: relative;
+    height: 1080px;
+    width: 1940px;
+      .v69_2 {
+        width: 100%;
+        height: 1080px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .v69_5 {
+        width: 409px;
+        height: 91px;
+        background: url("../images/v69_5.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 26px;
+        left: 762px;
+        overflow: hidden;
+      }
+      .v69_4 {
+        width: 546px;
+        color: rgba(37,104,171,1);
+        position: absolute;
+        top: 0px;
+        left: 263px;
+        font-family: Playfair Display;
+        font-weight: SemiBold Italic;
+        font-size: 64px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: normal;
+      }
+      .v69_3 {
+        width: 247px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 8px;
+        left: 0px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 55px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v69_6 {
+        width: 695px;
+        color: rgba(0,0,0,0.7099999785423279);
+        position: absolute;
+        top: 117px;
+        left: 622px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 20px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_2 {
+        width: 850px;
+        height: 416px;
+        background-image: url(./imgblog/Rectangle\ 43.png);
+        opacity: 1;
+        position: absolute;
+        top: 188px;
+        left: 135px;
+        border-top-left-radius: 31px;
+        border-top-right-radius: 31px;
+        border-bottom-left-radius: 31px;
+        border-bottom-right-radius: 31px;
+        overflow: hidden;
+      }
+      .v70_6 {
+        width: 100%;
+        height: 275px;
+        background: url("../images/v70_6.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 618px;
+        left: 136px;
+        overflow: hidden;
+      }
+      .v70_3 {
+        width: 533px;
+        height: 275px;
+        background-image: url(./imgblog/Rectangle\ 44.png);
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-top-left-radius: 31px;
+        border-top-right-radius: 31px;
+        border-bottom-left-radius: 31px;
+        border-bottom-right-radius: 31px;
+        overflow: hidden;
+      }
+      .v70_4 {
+        width: 533px;
+        height: 275px;
+        background-image: url(./imgblog/Rectangle\ 45.png);
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 552px;
+        border-top-left-radius: 31px;
+        border-top-right-radius: 31px;
+        border-bottom-left-radius: 31px;
+        border-bottom-right-radius: 31px;
+        overflow: hidden;
+      }
+      .v70_5 {
+        width: 533px;
+        height: 275px;
+        background-image: url(./imgblog/Rectangle\ 46.png);
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 1104px;
+        border-top-left-radius: 31px;
+        border-top-right-radius: 31px;
+        border-bottom-left-radius: 31px;
+        border-bottom-right-radius: 31px;
+        overflow: hidden;
+      }
+      .v70_7 {
+        width: 750px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 188px;
+        left: 1023px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 40px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_16 {
+        width: 625px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 900px;
+        left: 147px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 24px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_17 {
+        width: 462px;
+        height: 200px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 900px;
+        left: 699px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 24px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_18 {
+        width: 443px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 900px;
+        left: 1240px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 24px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_9 {
+        width: 784px;
+        color: rgba(0,0,0,0.47999998927116394);
+        position: absolute;
+        top: 322px;
+        left: 1021px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 18px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_15 {
+        width: 291px;
+        color: rgba(0,0,0,0.49000000953674316);
+        position: absolute;
+        top: 547px;
+        left: 1023px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 20px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_19 {
+        width: 257px;
+        color: rgba(0,0,0,0.49000000953674316);
+        position: absolute;
+        top: 979px;
+        left: 136px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 20px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_20 {
+        width: 251px;
+        color: rgba(0,0,0,0.49000000953674316);
+        position: absolute;
+        top: 979px;
+        left: 688px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 20px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_21 {
+        width: 257px;
+        color: rgba(0,0,0,0.49000000953674316);
+        position: absolute;
+        top: 979px;
+        left: 1240px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 20px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v70_22 {
+        width: 58px;
+        height: 58px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 518px;
+        left: 1744px;
+        border-radius: 50%;
+        box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+      }
+      .v70_24 {
+        width: 58px;
+        height: 58px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 943px;
+        left: 611px;
+        border-radius: 50%;
+        box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+      }
+      .v70_26 {
+        width: 58px;
+        height: 58px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 943px;
+        left: 1163px;
+        border-radius: 50%;
+        box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+      }
+      .v70_28 {
+        width: 58px;
+        height: 58px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 943px;
+        left: 1715px;
+        border-radius: 50%;
+        box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+      }
+      .v70_23 {
+        width: 27px;
+        height: 27px;
+        background: url("./imgblog/v70_23.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 533px;
+        left: 1759px;
+        overflow: hidden;
+      }
+      .v70_25 {
+        width: 27px;
+        height: 27px;
+        background: url("./imgblog/v70_23.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 958px;
+        left: 626px;
+        overflow: hidden;
+      }
+      .v70_27 {
+        width: 27px;
+        height: 27px;
+        background: url("./imgblog/v70_23.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 958px;
+        left: 1178px;
+        overflow: hidden;
+      }
+      .v70_29 {
+        width: 27px;
+        height: 27px;
+        background: url("./imgblog/v70_23.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 958px;
+        left: 1730px;
+        overflow: hidden;
+      }
+      /* Seletor para todas as bolinhas */
+.v70_22, .v70_24, .v70_26, .v70_28 {
+    cursor: pointer; /* Muda o cursor para mãozinha */
+    transition: transform 0.2s ease; /* Adiciona uma transição suave */
+  }
+  /* Animação ao passar o mouse */
+  .v70_22:hover, .v70_24:hover, .v70_26:hover, .v70_28:hover {
+    transform: scale(1.1); /* Aumenta levemente o tamanho */
+  } 
+
+
+}

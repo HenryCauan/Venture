@@ -1,0 +1,464 @@
+.section5{
+    position: relative;
+      .v144_48 {
+        width: 100%;
+        height: 1080px;
+        background: url("../images/v144_48.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .v67_666 {
+        z-index: 1001;
+        width: 24px;
+        height: 24px;
+        background: url("./icons/v67_192.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 550px;
+        left: 0px;
+        overflow: hidden;
+        
+      }
+      .v66_165 {
+        width: 100%;
+        height: 1080px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .v66_166 {
+        width: 477px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 24px;
+        left: 730px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 55px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v66_167 {
+        width: 259px;
+        color: rgba(37,104,171,1);
+        position: absolute;
+        top: 85px;
+        left: 839px;
+        font-family: Playfair Display;
+        font-weight: SemiBold Italic;
+        font-size: 64px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: italic;
+      }
+      .v66_168 {
+        width: 687px;
+        color: rgba(0,0,0,0.7099999785423279);
+        position: absolute;
+        top: 178px;
+        left: 627px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 20px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v66_169 {
+        width: 62%;
+        height: 246px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 230px;
+        left: 372px;
+        border: 1px solid rgba(157,157,157,1);
+        border-top-left-radius: 51px;
+        border-top-right-radius: 51px;
+        border-bottom-left-radius: 51px;
+        border-bottom-right-radius: 51px;
+        overflow: hidden;
+      }
+      .v66_174 {
+        width: 62%;
+        height: 130px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 490px;
+        left: 372px;
+        border: 1px solid rgba(157,157,157,1);
+        border-top-left-radius: 32px;
+        border-top-right-radius: 32px;
+        border-bottom-left-radius: 32px;
+        border-bottom-right-radius: 32px;
+      }
+      .v67_176 {
+        width: 62%;
+        height: 130px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 635px;
+        left: 371px;
+        border: 1px solid rgba(157,157,157,1);
+        border-top-left-radius: 32px;
+        border-top-right-radius: 32px;
+        border-bottom-left-radius: 32px;
+        border-bottom-right-radius: 32px;
+      }
+      .v67_177 {
+        width: 62%;
+        height: 130px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 780px;
+        left: 370px;
+        border: 1px solid rgba(157,157,157,1);
+        border-top-left-radius: 32px;
+        border-top-right-radius: 32px;
+        border-bottom-left-radius: 32px;
+        border-bottom-right-radius: 32px;
+        z-index: 1000;
+      }
+      .v66_170 {
+        width: 1030px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 278px;
+        left: 448px;
+        font-family: Playfair Display;
+        font-weight: SemiBold Italic;
+        font-size: 32px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: italic;
+      }
+      .v67_178 {
+        width: 581px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 510px;
+        left: 417px;
+        font-family: Playfair Display;
+        font-weight: SemiBold Italic;
+        font-size: 32px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: italic;
+      }
+      
+      .v67_179 {
+        width: 563px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 655px;
+        left: 417px;
+        font-family: Playfair Display;
+        font-weight: SemiBold Italic;
+        font-size: 32px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: italic;
+      }
+      .v67_180 {
+        width: 742px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 798px;
+        left: 417px;
+        font-family: Playfair Display;
+        font-weight: SemiBold Italic;
+        font-size: 32px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 650;
+        font-style: italic;
+        z-index: 1001;
+      }
+      .v70_8 {
+        width: 100%;
+        color: rgba(0,0,0,0.7099999785423279);
+        position: absolute;
+        top: 347px;
+        left: 448px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 18px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .v144_46 {
+        width: 1008px;
+        height: 799px;
+        background: url("../images/v144_46.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 271px;
+        left: 1482px;
+        overflow: hidden;
+      }
+      .v66_172 {
+        width: 58px;
+        height: 58px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: -10px;
+        left: 0px;
+        border-radius: 50%;
+        box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+      }
+      .v67_187 {
+        width: 58px;
+        height: 58px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 250px;
+        left: 0px;
+        border-radius: 50%;
+        box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+      .v67_187:hover {
+        transform: scale(1.03);
+        }
+      .v67_189 {
+        width: 58px;
+        height: 58px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 545px;
+        left: 0px;
+        border-radius: 50%;
+        box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+        z-index: 1000;
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+      .v67_666:hover {
+        transform: scale(1.03);
+        }
+
+      .v67_191 {
+        width: 58px;
+        height: 58px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 395px;
+        left: 0px;
+        border-radius: 50%;
+        box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+      .v67_191:hover {
+        transform: scale(1.03);
+        }
+
+      .v67_196 {
+        width: 774px;
+        color: rgba(0, 0, 0, 0.71);
+        position: absolute;
+        top: 923px;
+        left: 582px;
+        font-size: 20px;
+        opacity: 1;
+        text-align: left;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      .contact {
+        width: 237px;
+        height: 45px;
+        background: url("../images/v67_197.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 995px;
+        left: 834px;
+        overflow: hidden;
+      }
+      .layout-contact {
+        width: 237px;
+        height: 45px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border: 1px solid rgba(184,184,184,1);
+        border-top-left-radius: 29px;
+        border-top-right-radius: 29px;
+        border-bottom-left-radius: 29px;
+        border-bottom-right-radius: 29px;
+        overflow: hidden;
+      }
+      .nome-contact {
+        width: 143px;
+        color: rgba(0,0,0,1);
+        position: absolute;
+        top: 12px;
+        left: 57px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 14px;
+        opacity: 1;
+        text-align: left;
+      }
+      .icon-contact {
+        width: 25px;
+        height: 25px;
+        background: url("../images/v67_200.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 8px;
+        left: 139px;
+        overflow: hidden;
+      }
+      .icon-contact1 {
+        width: 25px;
+        height: 25px;
+        background: url("./img/forward_button.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .v144_47 {
+        width: 9999px;
+        height: 965px;
+        background: url("../images/v144_47.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 286px;
+        left: 1499px;
+        overflow: hidden;
+      }
+      .v67_186 {
+        width: 24px;
+        height: 24px;
+        background: url("./icons/v67_192.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: -5px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .v67_188 {
+        width: 24px;
+        height: 24px;
+        background: url("./icons/v67_192.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 255px;
+        left: 0px;
+        overflow: hidden;
+      }
+
+      .v67_192 {
+        width: 24px;
+        height: 24px;
+        background: url("./icons/v67_192.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 399px;
+        left: 0px;
+        overflow: hidden;
+      }
+      
+
+    .contact {
+        background-color: white;
+        border: 1px solid #b8b8b8;
+        border-radius: 2rem;
+        padding: 0.8rem 1.5rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+    
+    .contact:hover {
+        transform: scale(1.03);
+    }
+    
+    
+}
+.v67_186:hover {
+  transform: scale(1.03);
+}
+.v67_188:hover {
+transform: scale(1.03);
+}
+.v67_192:hover {
+transform: scale(1.03);
+}
+.v67_666:hover {
+transform: scale(1.03);
+}
