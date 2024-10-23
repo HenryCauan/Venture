@@ -1,6 +1,6 @@
-<h1>Responsive Travel Website</h1>
+<h1>Travel Website</h1>
 <ul>
-  <li>Responsive Travel Website Design Using HTML CSS And JavaScript</li>
+  <li>Travel Website Design Using HTML CSS And JavaScript</li>
   <li>Contains animations when scrolling.</li>
   <li>Smooth scrolling in each section.</li>
   <li>Developed first in Figma, then for Code.</li>
