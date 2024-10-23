@@ -1,5 +1,6 @@
 <h1>Travel Website</h1>
 <ul>
+  <li>My First Project</li>
   <li>Travel Website Design Using HTML CSS And JavaScript</li>
   <li>Contains animations when scrolling.</li>
   <li>Smooth scrolling in each section.</li>
