@@ -5,6 +5,7 @@
   <li>Smooth scrolling in each section.</li>
   <li>Developed first in Figma, then for Code.</li>
 </ul>
+Disable the Dark Reader extension when entering the site
 
 ![ghit](https://github.com/user-attachments/assets/9775c320-a5d3-44d1-b890-b815a5bb4e2a)
 
